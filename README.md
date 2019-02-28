@@ -1,2 +1,3 @@
 # Hello-world
-first try
+this is my first try on github
+best wishes to everyone!
